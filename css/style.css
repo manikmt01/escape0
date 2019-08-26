@@ -1,0 +1,314 @@
+body{
+	font-family: Brandon_med;
+}
+/*header and banner section start*/
+.hd_slider{
+	background-image: url(../img/banner.jpg);
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+/*header section start*/
+header{
+	padding: 20px 0;
+}
+.nav_custom{
+	padding: 0.5rem 0rem;
+}
+.navbar_custom{
+	background-color: #fff !important;
+}
+.manu ul li a{
+	color: #fff !important;
+	font-size: 18px;
+	padding: 0 20px !important;
+	transition: .5s;
+}
+.manu ul li:last-child a{
+	padding-right: 0 !important;
+}
+.manu ul li a:hover{
+	color: #7690c5 !important;
+}
+/*header section end*/
+/*slider section start*/
+.banner{
+	padding: 120px 0;
+}
+.carousel_custom{
+	top: -50px !important;
+}
+.dreams{
+	color: #fff !important;
+}
+.dreams h1{
+	font-family: Brandon_bld;
+	font-size: 66px;
+	margin-bottom: 80px;
+	word-spacing: -5px;
+}
+.dreams h2{
+	font-family: Brandon_light;
+	font-size: 32px;
+	margin-bottom: 50px;
+}
+.dreams button{
+	font-family: Brandon_bld;
+	font-size: 23px;
+	color: #fff !important;
+	background: transparent;
+	border: 2px solid #fff;
+	padding: 15px 65px;
+	border-radius: 5px;
+	transition: .5s;
+}
+.dreams button:hover{
+	background: #222222;
+	color: #7690c5 !important;
+	border: 2px solid #222222;
+}
+/*slider section end*/
+/*header and banner section end*/
+/*same padding section */
+.same_padding{
+	padding: 90px 0 !important; 
+}
+/*same padding section */
+/*web developmant section start*/
+.web{}
+.same_post{}
+.same_post h1, .common_pst h1{
+	font-family: Brandon_light;
+	font-weight: 400;
+	font-size: 60px;
+	margin-bottom: 30px;
+}
+.same_post h1 span, .common_pst h1 span{
+	font-family: Brandon_bld;
+	font-weight: 400;
+}
+.same_post p, .common_pst p{
+	font-family: Brandon_reg;
+	font-size: 18px;
+	color: #777777;
+	word-spacing: 1px;
+	letter-spacing: .5px;
+}
+.web_2{
+	background-color: #fafafa;
+}
+/*web developmant section end*/
+
+/*service section start*/
+.service{}
+.service_mb{
+	margin-bottom: 50px;
+}
+.single_all{
+	margin-bottom: 40px;
+}
+.single_all:last-child{
+	margin-bottom: 0px;
+}
+.service_icon {
+	font-size: 30px;
+	width: 65px;
+	height: 65px;
+	border-radius: 50%;
+	background: #222222;
+	margin: 0 auto;
+	color: #fff;
+	padding-top: 10px;
+}
+.service_post{}
+.service_post h4{
+	font-family: Brandon_med;
+	font-size: 22px;
+	color: #222222;
+}
+.service_post p{
+	font-family: Brandon_reg;
+	font-size: 18px;
+	color: #777777;
+}
+/*service section end*/
+/*clients section start*/
+.clients{
+	background-color: #fafafa;
+}
+/*common post section start*/
+.common_pst{}
+.common_pst h1 {
+	margin-bottom: 0;
+	line-height: 45px;
+}
+.common_pst h1 span{}
+.common_pst p{}
+/*common post section end*/
+.client_all{
+	margin-top: 50px;
+	font-family: sans-serif;
+}
+.client_photos{}
+.client_photos img{
+	 width: 220px;
+    height: 220px;
+    background: #010101;
+    border-radius: 50%;
+}
+.client_post {
+    background: #fff;
+    padding: 35px 80px;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+.client_post p {
+    font-size: 22px;
+    line-height: 35px;
+    margin-bottom: 10px !important;
+    color: #777777;
+}
+.client_post h4{
+	font-size: 18px;
+	color: #7690c5;
+}
+/*clients section end*/
+/*envato section start*/
+.envato{
+	padding: 50px 0;
+}
+
+/*envato section end*/
+/*team section start*/
+.team{
+	background-color: #111111;
+}
+.common_color{
+	color: #fff !important;
+}
+.service_mb_team{
+	margin-bottom: 60px;
+}
+/*team section end*/
+/*team membar section start*/
+.team_membar{
+	color: #fff;
+}
+.membar_ifo{}
+
+.membar_ifo img {
+    background: #404040;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 5px solid #FFF;
+    margin-bottom: 20px;
+}
+.membar_ifo h4{
+	font-family: Brandon_bld;
+	font-size: 22px;
+	margin-bottom: 5px !important;
+}
+.membar_ifo h5 {
+    font-family: Brandon_reg;
+    font-size: 18px;
+}
+.membar_social i {
+    font-size: 21px;
+    color: #fff;
+    text-align: center !important;
+    width: 40px;
+    height: 40px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    padding-top: 8px;
+    margin-right: 10px;
+    transition: .5s;
+}
+.membar_social i:hover{
+	color: #7690c5 !important;
+	background: #fff;
+}
+.team_footer{
+	margin-top: 50px !important;
+}
+.team_footer p{
+	font-family: Brandon_reg;
+	color: #fff;
+	font-size: 20px;
+    word-spacing: 2px;
+    letter-spacing: .5px;
+}
+/*team membar section end*/
+/*say_hello section start*/
+.say_hello, footer{
+	background-color: #7690c5;
+}
+.say_h1{
+	  margin-bottom: 15px !important;
+    line-height: 75px !important;
+}
+.say_hello_pst{}
+.say_hello_pst i {
+    font-size: 25px;
+    color: #fff;
+}
+.say_hello_pst p {
+    color: #fff;
+    font-size: 18px;
+}
+
+
+
+.say_form{}
+.say_form input{
+	font-family: Brandon_med !important;
+	font-size: 18px;
+	color: #bbbbbb !important;
+	padding: 0px 16px;
+    height: 50px !important;
+}
+.say_form textarea{
+	
+	font-family: Brandon_med !important;
+	font-size: 16px;
+	color: #bbbbbb !important;
+	padding: 10px 15px;
+}
+.say_btn{}
+.say_btn button {
+	font-family: Brandon_med !important;
+    border: 2px solid #fff;
+    background: transparent;
+    color: #fff;
+    font-size: 18px;
+    padding: 5px 30px;
+    border-radius: 5px;
+    transition: .5s;
+}
+.say_btn button:hover{
+	border: 2px solid #bbb;
+	background-color: #bbb;
+
+}
+/*say_hello section end*/
+/*footer section start*/
+footer{
+	
+}
+.footer_border{
+	font-family: Brandon_med;
+	padding: 30px 0;
+	border-top: 1px solid #87a0d2;
+	color: #fff;
+}
+.footer_border p{
+	margin-bottom: 0 !important;
+	word-spacing: 4px;
+}
+.footer_border p a{
+	color: #fff;
+	font-weight: 700;
+}
+/*footer section end*/

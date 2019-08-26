@@ -1,0 +1,359 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+   .manu ul li a {
+    padding: 5px 0px !important;
+    text-align: right;
+}
+.dreams h1 {
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+
+.dreams h2 {
+    font-family: Brandon_light;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.banner {
+    padding: 50px 0;
+}
+.dreams button {
+    font-size: 18px;
+    border: 2px solid #fff;
+    padding: 5px 20px;
+}
+
+.carousel_custom{
+	top: -35px !important;
+}
+
+/*web development section start*/
+.same_post{
+    text-align: center;
+}
+.same_post h1, .common_pst h1{
+    font-size: 40px;
+}
+.same_post p, .common_pst p{
+    font-size: 16px;
+}
+.same_padding {
+    padding: 50px 0 25px 0 !important;
+}
+/*web development section end*/
+/*service section start*/
+.single_all {
+    text-align: center;
+}
+.service_mb, .service_mb_30 {
+    margin-bottom: 30px;
+}
+.service_icon {
+    margin-bottom: 15px !important;
+}
+
+/*service section end*/
+/*envato section start*/
+.mb_10{
+    margin-bottom: 20px;
+}
+/*envato section end*/
+/*team membar section start*/
+.service_mb_team{
+    margin-bottom: 40px;
+}
+.membar_ifo img {
+    width: 180px;
+    height: 180px;
+}
+.membar_social i {
+    font-size: 18px;
+    width: 35px;
+    height: 35px;
+    padding-top: 6px;
+
+}
+.membar_ifo {
+    margin-bottom: 40px;
+}
+.member_mb_0{
+    margin-bottom: 0;
+}
+.team_footer p{
+    font-size: 16px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+}
+
+/*team membar section end*/
+/*say hellow section start*/
+.say_h1 {
+    margin-bottom: 5px !important;
+    line-height: 50px !important;
+    text-align: center;
+}
+.say_form input {
+    font-size: 16px;
+    padding: 0px 10px;
+    height: 40px !important;
+}
+.say_form textarea {
+    font-size: 16px;
+    padding: 10px 10px;
+}
+.say_btn button {
+    font-size: 16px;
+    padding: 5px 25px;
+}
+.say_hello_pst i {
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+.say_hello_pst p {
+    text-align: center;
+    font-size: 16px;
+}
+/*say hellow section end*/
+/*client section start*/
+.client_photos {
+    text-align: center;
+}
+.client_post {
+    padding: 15px 40px;
+    margin-top: 15px;
+}
+.client_photos img {
+    width: 160px;
+    height: 160px;
+}
+.client_post p {
+    font-size: 18px;
+    line-height: 30px;
+}
+.client_post h4 {
+    font-size: 16px;
+}
+/*client section end*/
+
+
+
+
+}
+
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+    .manu ul li a {
+    padding: 5px 0px !important;
+    text-align: right;
+}
+
+.dreams h1 {
+    font-size: 45px;
+    margin-bottom: 40px;
+}
+
+.dreams h2 {
+    font-size: 22px;
+    margin-bottom: 25px;
+}
+.banner {
+    padding: 90px 0;
+}
+.dreams button {
+    font-size: 20px;
+    padding: 10px 55px;
+}
+/*web development section start*/
+.same_post{
+    text-align: center;
+}
+.same_icon{
+    margin-bottom: 30px;
+}
+.same_post h1, .common_pst h1{
+    font-size: 50px;
+}
+/*web development section end*/
+/*client section start*/
+.client_photos {
+    text-align: center;
+}
+.client_post {
+    padding: 20px 50px;
+    margin-top: 20px;
+}
+.client_photos img {
+    width: 190px;
+    height: 190px;
+    background: #010101;
+    border-radius: 50%;
+}
+.client_post p {
+    font-size: 20px;
+    line-height: 30px;
+}
+.client_post h4 {
+    font-size: 16px;
+}
+/*client section end*/
+/*service section start*/
+.single_all {
+    text-align: center;
+}
+.service_mb, .service_mb_30 {
+    margin-bottom: 30px;
+}
+.service_icon {
+    margin-bottom: 15px !important;
+}
+/*service section end*/
+/*envato section start*/
+.mb_10{
+    margin-bottom: 30px;
+}
+/*envato section end*/
+/*team membar section start*/
+
+.membar_ifo img {
+    width: 200px;
+    height: 200px;
+}
+.membar_social i {
+    font-size: 18px;
+    width: 35px;
+    height: 35px;
+    padding-top: 6px;
+
+}
+.membar_ifo {
+    margin-bottom: 40px;
+}
+.member_mb_0{
+    margin-bottom: 0;
+}
+.team_footer p{
+    font-size: 18px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+}
+/*team membar section end*/
+
+/*say hellow section start*/
+.say_h1 {
+    margin-bottom: 10px !important;
+    line-height: 50px !important;
+    text-align: center;
+}
+.say_form input {
+    font-size: 16px;
+    padding: 0px 10px;
+    height: 40px !important;
+}
+.say_form textarea {
+    font-size: 16px;
+    padding: 10px 10px;
+}
+.say_hello_pst i {
+    margin-bottom: 5px;
+}
+.say_hello_pst p {
+    text-align: center;
+}
+/*say hellow section end*/
+
+
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .dreams h1 {
+    font-size: 50px;
+    margin-bottom: 60px;
+}
+
+.dreams h2 {
+    font-family: Brandon_light;
+    font-size: 28px;
+    margin-bottom: 35px;
+}
+.banner {
+    padding: 90px 0;
+}
+
+/*web development section start*/
+.same_post{
+    text-align: center;
+}
+.same_icon{
+    margin-bottom: 30px;
+}
+/*web development section end*/
+/*client section start*/
+.client_post {
+    padding: 15px 40px;
+    margin-top: 20px;
+
+}
+.client_photos img {
+    width: 190px;
+    height: 190px;
+    background: #010101;
+    border-radius: 50%;
+}
+.client_post p {
+    font-size: 20px;
+    line-height: 30px;
+}
+.client_post h4 {
+    font-size: 16px;
+}
+/*client section end*/
+/*team membar section start*/
+
+.membar_ifo img {
+    width: 210px;
+    height: 210px;
+}
+.membar_social i {
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+}
+.team_footer p{
+    font-size: 20px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+}
+/*team membar section end*/
+
+/*say hellow section start*/
+.say_h1 {
+    margin-bottom: 10px !important;
+    line-height: 60px !important;
+}
+/*say hellow section end*/
+
+
+
+
+
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /*client post start*/
+    .client_post {
+    padding: 20px 80px;
+    margin-top: 15px;
+}
+/*client post start*/
+
+
+}
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    
+    
+}
